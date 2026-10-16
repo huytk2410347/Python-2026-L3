@@ -1,6 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-Trần Khánh Huy
-
+Trần Khánh Huy  
 2410347
