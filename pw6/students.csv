@@ -1,0 +1,31 @@
+student_id,name,age,major,GPA
+S001,Alice,20,ICT,3.4
+S002,Bob,21,Data Science,3.7
+S003,Carol,20,ICT,3.2
+S004,David,22,Data Science,3.8
+S005,Emma,21,Cybersecurity,3.55
+S006,Frank,20,Applied Mathematics,3.1
+S007,Grace,21,ICT,3.85
+S008,Henry,22,Cybersecurity,2.95
+S009,Ivy,20,Data Science,3.6
+S010,Jack,21,Applied Mathematics,3.35
+S011,Kate,22,ICT,3.9
+S012,Leo,20,Data Science,
+S013,Mia,21,Cybersecurity,3.45
+S014,Noah,22,Applied Mathematics,3.75
+S015,Olivia,,ICT,3.5
+S016,Peter,21,Data Science,3.15
+S017,Quinn,20,Cybersecurity,3.65
+S018,Rose,22,Applied Mathematics,3.05
+S019,Sam,21,ICT,3.3
+S020,Tina,20,Data Science,3.95
+S021,Uma,22,Cybersecurity,3.25
+S022,Victor,21,Applied Mathematics,3.55
+S023,Wendy,20,ICT,3.7
+S024,Xavier,22,Data Science,3.4
+S025,Yara,21,Cybersecurity,
+S026,Zack,20,Applied Mathematics,3.8
+S027,Anna,21,ICT,3.6
+S028,Brian,22,Data Science,2.85
+S029,Chloe,20,Cybersecurity,3.9
+S030,Daniel,21,Applied Mathematics,3.45
