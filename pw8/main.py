@@ -18,7 +18,7 @@ def main(stdscr):
         elif choice == "0":
             break
 
-    save_data(students).join()   # wait for the thread before the program ends
+    save_data(students).join()   
 
 
 curses.wrapper(main)

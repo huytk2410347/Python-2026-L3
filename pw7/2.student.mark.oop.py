@@ -9,7 +9,7 @@ class Entity:
 
 class Student(Entity):
     def __init__(self):
-        self.__id = ""       # double underscore = private
+        self.__id = ""       
         self.__name = ""
         self.__dob = ""
 
@@ -32,8 +32,7 @@ class Course(Entity):
     def __init__(self):
         self.__id = ""
         self.__name = ""
-        self.__marks = {}    # {student_id: mark}
-
+        self.__marks = {}  
     def get_id(self):
         return self.__id
 
@@ -92,7 +91,7 @@ class School:
 
     def __list_all(self, items):
         for item in items:
-            item.list()          # polymorphism: same call, different class
+            item.list()       
 
     def list_students(self):
         self.__list_all(self.__students)
